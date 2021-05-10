@@ -1,0 +1,27 @@
+.jumbotron {
+    background-image: url('../../assets/img/fundo.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+    border-radius: 0% ;
+}
+
+#email {
+    width: 50%;
+    padding: 15px;
+    margin: auto;
+    border-radius: 5px;
+    background-color: white;
+    border-color: darkgoldenrod;
+    
+}
+
+#password {
+    width: 50%;
+    padding: 15px;
+    margin: auto;
+    border-radius: 5px;
+    background-color: white;
+    border-color: darkgoldenrod;
+}
